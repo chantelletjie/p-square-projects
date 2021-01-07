@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/chantelletjie/p-square-projects/static/css/main.681b20e1.chunk.css",
+    "main.js": "/chantelletjie/p-square-projects/static/js/main.b1229d2b.chunk.js",
+    "main.js.map": "/chantelletjie/p-square-projects/static/js/main.b1229d2b.chunk.js.map",
+    "runtime-main.js": "/chantelletjie/p-square-projects/static/js/runtime-main.5c6e8acc.js",
+    "runtime-main.js.map": "/chantelletjie/p-square-projects/static/js/runtime-main.5c6e8acc.js.map",
+    "static/css/2.31461e4f.chunk.css": "/chantelletjie/p-square-projects/static/css/2.31461e4f.chunk.css",
+    "static/js/2.ac1762aa.chunk.js": "/chantelletjie/p-square-projects/static/js/2.ac1762aa.chunk.js",
+    "static/js/2.ac1762aa.chunk.js.map": "/chantelletjie/p-square-projects/static/js/2.ac1762aa.chunk.js.map",
+    "static/js/3.2595e0e2.chunk.js": "/chantelletjie/p-square-projects/static/js/3.2595e0e2.chunk.js",
+    "static/js/3.2595e0e2.chunk.js.map": "/chantelletjie/p-square-projects/static/js/3.2595e0e2.chunk.js.map",
+    "index.html": "/chantelletjie/p-square-projects/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/chantelletjie/p-square-projects/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.681b20e1.chunk.css.map": "/chantelletjie/p-square-projects/static/css/main.681b20e1.chunk.css.map",
+    "static/js/2.ac1762aa.chunk.js.LICENSE.txt": "/chantelletjie/p-square-projects/static/js/2.ac1762aa.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/chantelletjie/p-square-projects/static/media/pieter-background.77195968.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c6e8acc.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.ac1762aa.chunk.js",
+    "static/css/main.681b20e1.chunk.css",
+    "static/js/main.b1229d2b.chunk.js"
+  ]
+}
